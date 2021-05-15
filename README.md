@@ -1,2 +1,2 @@
 # parallel-programming-tasks
-tasks by using parallel programming in c langauge
+tasks by using parallel programming in c++ langauge
