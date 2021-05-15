@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\vip\documents\visual studio 2015\projects\lab3\lab3\source.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\vip\documents\visual studio 2015\projects\lab3\lab3\source.cpp(9): warning C4101: 'id': unreferenced local variable
+c:\users\vip\documents\visual studio 2015\projects\lab3\lab3\source.cpp(9): warning C4101: 'j': unreferenced local variable
+c:\users\vip\documents\visual studio 2015\projects\lab3\lab3\source.cpp(18): warning C4101: 'j': unreferenced local variable
+  lab3.vcxproj -> C:\Users\vip\Documents\Visual Studio 2015\Projects\lab3\Debug\lab3.exe
+  lab3.vcxproj -> C:\Users\vip\Documents\Visual Studio 2015\Projects\lab3\Debug\lab3.pdb (Full PDB)
