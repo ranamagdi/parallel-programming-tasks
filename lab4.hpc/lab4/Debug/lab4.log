@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\vip\documents\visual studio 2015\projects\lab4\lab4\source.cpp(12): warning C4101: 'x_point': unreferenced local variable
+c:\users\vip\documents\visual studio 2015\projects\lab4\lab4\source.cpp(12): warning C4101: 'y_point': unreferenced local variable
+  lab4.vcxproj -> c:\users\vip\documents\visual studio 2015\Projects\lab4\Debug\lab4.exe
+  lab4.vcxproj -> c:\users\vip\documents\visual studio 2015\Projects\lab4\Debug\lab4.pdb (Full PDB)
